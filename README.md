@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ npm install react-native-cardview --save`
+`$ npm install --save https://github.com/snyder/react-native-cardview.git`
 
 ### Mostly automatic installation
 
