@@ -1,5 +1,5 @@
 
-package com.quenice.reactnative;
+package com.snyder.cardview;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

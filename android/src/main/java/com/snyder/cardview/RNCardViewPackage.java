@@ -1,5 +1,5 @@
 
-package com.quenice.reactnative;
+package com.snyder.cardview;
 
 import java.util.Arrays;
 import java.util.Collections;
