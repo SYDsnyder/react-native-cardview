@@ -1,4 +1,4 @@
-package com.quenice.reactnative;
+package com.snyder.cardview;
 
 import android.graphics.Color;
 import android.support.v7.widget.CardView;
